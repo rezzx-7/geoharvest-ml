@@ -1,0 +1,188 @@
+state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price
+Maharashtra,Ahmednagar,Karjat,Bengal Gram(Gram)(Whole),Other,FAQ,14/10/2024,6000,6000,6000
+Maharashtra,Ahmednagar,Sangamner,Seetapal,Other,Local,14/10/2024,4000,10000,7000
+Maharashtra,Ahmednagar,Shevgaon,Onion,1st Sort,FAQ,14/10/2024,4000,4500,4250
+Maharashtra,Ahmednagar,Shevgaon,Onion,2nd Sort,FAQ,14/10/2024,2200,3800,2450
+Maharashtra,Ahmednagar,Shrirampur,Bhindi(Ladies Finger),Other,FAQ,14/10/2024,2500,3500,3000
+Maharashtra,Ahmednagar,Shrirampur,Cabbage,Other,FAQ,14/10/2024,600,1000,800
+Maharashtra,Ahmednagar,Shrirampur,Carrot,Other,FAQ,14/10/2024,1000,2000,1500
+Maharashtra,Ahmednagar,Shrirampur,Ginger(Green),Other,FAQ,14/10/2024,2500,6000,4500
+Maharashtra,Ahmednagar,Shrirampur,Green Chilli,Other,FAQ,14/10/2024,4000,6500,5000
+Maharashtra,Ahmednagar,Shrirampur,Guar,Other,FAQ,14/10/2024,5000,7000,6000
+Maharashtra,Akola,Akola,Arhar (Tur/Red Gram)(Whole),Other,FAQ,14/10/2024,8500,9455,9240
+Maharashtra,Akola,Akola,Bengal Gram(Gram)(Whole),Other,FAQ,14/10/2024,5500,6945,6555
+Maharashtra,Akola,Akola,Ginger(Green),Other,FAQ,14/10/2024,3000,8000,6000
+Maharashtra,Akola,Akola,Wheat,Other,FAQ,14/10/2024,2400,2880,2680
+Maharashtra,Akola,Barshi Takli,Soyabean,Yellow,FAQ,14/10/2024,3850,4425,4300
+Maharashtra,Amarawati,Amarawati,Arhar (Tur/Red Gram)(Whole),Other,FAQ,14/10/2024,9000,9601,9300
+Maharashtra,Amarawati,Amarawati,Bajra(Pearl Millet/Cumbu),Other,FAQ,14/10/2024,2500,2800,2650
+Maharashtra,Amarawati,Amarawati,Black Gram (Urd Beans)(Whole),Other,FAQ,14/10/2024,6500,7100,6800
+Maharashtra,Amarawati,Amarawati,Jowar(Sorghum),Other,FAQ,14/10/2024,2000,2200,2100
+Maharashtra,Amarawati,Amarawati,Wheat,Other,FAQ,14/10/2024,2750,2950,2850
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Bitter gourd,Other,FAQ,14/10/2024,2800,3000,2900
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Cabbage,Other,FAQ,14/10/2024,1400,1500,1450
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Cauliflower,Other,FAQ,14/10/2024,1400,1600,1500
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Orange,Other,Local,14/10/2024,1600,2200,1900
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Pomegranate,Other,Local,14/10/2024,8000,12000,10000
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Potato,Local,FAQ,14/10/2024,1000,2800,1900
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Pumpkin,Other,FAQ,14/10/2024,800,1000,900
+Maharashtra,Amarawati,Shetkari Khushi Bazar,Soyabean,Other,FAQ,14/10/2024,1000,4550,4022
+Maharashtra,Beed,Ambejaogai,Soyabean,Yellow,FAQ,14/10/2024,3760,4420,4350
+Maharashtra,Beed,Beed,Black Gram (Urd Beans)(Whole),Other,FAQ,14/10/2024,4000,7421,6488
+Maharashtra,Beed,Kille Dharur,Bengal Gram(Gram)(Whole),Other,FAQ,14/10/2024,5959,7200,6464
+Maharashtra,Beed,Majalgaon,Soyabean,Other,FAQ,14/10/2024,3500,4351,4000
+Maharashtra,Beed,Majalgaon,Wheat,Other,FAQ,14/10/2024,2300,2775,2700
+Maharashtra,Bhandara,Bhandara,Rice,1009 Kar,FAQ,14/10/2024,4100,4100,4100
+Maharashtra,Buldhana,Buldhana(Dhad),Black Gram (Urd Beans)(Whole),Other,FAQ,14/10/2024,5000,6000,5500
+Maharashtra,Buldhana,Chikali,Wheat,Other,FAQ,14/10/2024,2251,3000,2625
+Maharashtra,Buldhana,Deoulgaon Raja,Black Gram (Urd Beans)(Whole),Other,FAQ,14/10/2024,6000,8101,8101
+Maharashtra,Buldhana,Deoulgaon Raja,Green Gram (Moong)(Whole),Green (Whole),FAQ,14/10/2024,5300,7611,7611
+Maharashtra,Buldhana,Deoulgaon Raja,Wheat,Other,FAQ,14/10/2024,2300,2500,2500
+Maharashtra,Buldhana,Khamgaon,Black Gram (Urd Beans)(Whole),Other,FAQ,14/10/2024,6400,7400,6900
+Maharashtra,Buldhana,Lonar,Jowar(Sorghum),Other,FAQ,14/10/2024,1700,2150,1925
+Maharashtra,Chandrapur,Savali,Paddy(Dhan)(Common),Other,FAQ,14/10/2024,3180,3380,3200
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Cauliflower,Other,FAQ,14/10/2024,2000,4000,3000
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Drumstick,Other,FAQ,14/10/2024,5000,8000,6500
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Ginger(Green),Other,FAQ,14/10/2024,1000,3500,2250
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Maize,Yellow,FAQ,14/10/2024,1400,1500,1450
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Tomato,Other,FAQ,14/10/2024,2000,6000,4000
+Maharashtra,Dharashiv(Usmanabad),Paranda,Soyabean,Other,FAQ,14/10/2024,3900,4200,4100
+Maharashtra,Dharashiv(Usmanabad),Tuljapur,Black Gram (Urd Beans)(Whole),Other,FAQ,14/10/2024,6000,7300,7000
+Maharashtra,Dhule,Dhule,Jowar(Sorghum),Other,FAQ,14/10/2024,2070,2350,2305
+Maharashtra,Dhule,Dhule,Onion,Red,FAQ,14/10/2024,400,4400,4100
+Maharashtra,Dhule,Dhule,Wheat,Other,FAQ,14/10/2024,2300,3350,2930
+Maharashtra,Dhule,Sakri,Jowar(Sorghum),Jowar ( White),FAQ,14/10/2024,1955,1955,1955
+Maharashtra,Hingoli,Hingoli,Wheat,Sharbati,FAQ,14/10/2024,1580,2800,2190
+Maharashtra,Hingoli,Hingoli(Kanegoan Naka),Soyabean,Yellow,FAQ,14/10/2024,4200,4400,4300
+Maharashtra,Jalana,Partur,Soyabean,Yellow,FAQ,14/10/2024,4300,4445,4371
+Maharashtra,Jalgaon,Chalisgaon,Bajra(Pearl Millet/Cumbu),Other,FAQ,14/10/2024,1801,2550,2401
+Maharashtra,Jalgaon,Dharangaon,Black Gram (Urd Beans)(Whole),Other,FAQ,14/10/2024,5605,5885,5885
+Maharashtra,Jalgaon,Dharangaon,Jowar(Sorghum),Other,FAQ,14/10/2024,2101,2335,2198
+Maharashtra,Jalgaon,Raver,Bengal Gram(Gram)(Whole),Other,FAQ,14/10/2024,7000,7000,7000
+Maharashtra,Kolhapur,Kolhapur,Green Chilli,Other,FAQ,14/10/2024,3000,7000,5000
+Maharashtra,Kolhapur,Kolhapur,Lime,Other,Local,14/10/2024,4000,7500,5000
+Maharashtra,Kolhapur,Kolhapur,Methi(Leaves),Other,FAQ,14/10/2024,2500,7500,5000
+Maharashtra,Latur,Aurad Shahajani,Green Gram (Moong)(Whole),Other,FAQ,14/10/2024,6400,6500,6450
+Maharashtra,Latur,Ausa,Green Gram (Moong)(Whole),Green (Whole),FAQ,14/10/2024,6311,6450,6368
+Maharashtra,Latur,Ausa,Soyabean,Yellow,FAQ,14/10/2024,3000,4570,4066
+Maharashtra,Latur,Latur,Green Gram (Moong)(Whole),Green (Whole),FAQ,14/10/2024,5000,7471,7000
+Maharashtra,Latur,Latur,Soyabean,Yellow,FAQ,14/10/2024,4000,4567,4430
+Maharashtra,Mumbai,Mumbai,Almond(Badam),Other,FAQ,14/10/2024,70000,100000,85000
+Maharashtra,Mumbai,Mumbai,Bengal Gram(Gram)(Whole),Other,FAQ,14/10/2024,7200,9500,8750
+Maharashtra,Mumbai,Mumbai,Bitter gourd,Other,FAQ,14/10/2024,2800,3200,3000
+Maharashtra,Mumbai,Mumbai,Black Gram Dal (Urd Dal),Other,FAQ,14/10/2024,10600,13500,12850
+Maharashtra,Mumbai,Mumbai,Coconut,Other,FAQ,14/10/2024,1450,3000,2225
+Maharashtra,Mumbai,Mumbai,Coriander(Leaves),Other,FAQ,14/10/2024,600,1500,1050
+Maharashtra,Mumbai,Mumbai,Cowpea (Lobia/Karamani),Other,FAQ,14/10/2024,7800,11000,9800
+Maharashtra,Mumbai,Mumbai,Cucumbar(Kheera),Other,FAQ,14/10/2024,1000,1600,1300
+Maharashtra,Mumbai,Mumbai,Cummin Seed(Jeera),Other,FAQ,14/10/2024,22000,44000,33000
+Maharashtra,Mumbai,Mumbai,Ginger(Green),Other,FAQ,14/10/2024,4000,12000,8000
+Maharashtra,Mumbai,Mumbai,Green Chilli,Other,FAQ,14/10/2024,4000,6000,5000
+Maharashtra,Mumbai,Mumbai,Ground Nut Seed,Other,FAQ,14/10/2024,9000,12500,11000
+Maharashtra,Mumbai,Mumbai,Jowar(Sorghum),Other,FAQ,14/10/2024,2700,6000,4700
+Maharashtra,Mumbai,Mumbai,Kulthi(Horse Gram),Other,FAQ,14/10/2024,7100,9500,8500
+Maharashtra,Mumbai,Mumbai,Raddish,Other,FAQ,14/10/2024,5000,6000,5500
+Maharashtra,Mumbai,Mumbai,Soanf,Other,FAQ,14/10/2024,11000,27000,19000
+Maharashtra,Mumbai,Mumbai- Fruit Market,Apple,Other,Local,14/10/2024,9000,13000,11000
+Maharashtra,Mumbai,Mumbai- Fruit Market,Pomegranate,Other,Local,14/10/2024,10000,16000,13000
+Maharashtra,Murum,Dharashiv,Green Gram (Moong)(Whole),Green (Whole),FAQ,14/10/2024,4500,7000,5750
+Maharashtra,Murum,Dharashiv,Soyabean,Yellow,FAQ,14/10/2024,3200,4330,3765
+Maharashtra,Nagpur,Katol,Arhar (Tur/Red Gram)(Whole),Other,FAQ,14/10/2024,7200,7200,7200
+Maharashtra,Nagpur,Katol,Maize,Other,FAQ,14/10/2024,2400,2400,2400
+Maharashtra,Nagpur,Katol,Soyabean,Yellow,FAQ,14/10/2024,3525,4481,4250
+Maharashtra,Nagpur,Katol,Wheat,Other,FAQ,14/10/2024,2711,2721,2718
+Maharashtra,Nagpur,Nagpur,Little gourd (Kundru),Other,FAQ,14/10/2024,3000,6000,5250
+Maharashtra,Nagpur,Savner,Maize,Other,FAQ,14/10/2024,1550,2271,2000
+Maharashtra,Nagpur,Savner,Soyabean,Yellow,FAQ,14/10/2024,3940,4401,4225
+Maharashtra,Nanded,Bhokar,Green Gram (Moong)(Whole),Other,FAQ,14/10/2024,7100,7100,7100
+Maharashtra,Nandurbar,Nandurbar,Cotton,Other,FAQ,14/10/2024,6200,7000,6750
+Maharashtra,Nandurbar,Shahada,Maize,Deshi White,FAQ,14/10/2024,1275,1275,1275
+Maharashtra,Nandurbar,Shahada,Soyabean,Other,FAQ,14/10/2024,2512,2512,2512
+Maharashtra,Nashik,Lasalgaon,Jowar(Sorghum),Other,FAQ,14/10/2024,2001,2552,2251
+Maharashtra,Nashik,Lasalgaon,Onion,Red,FAQ,14/10/2024,2271,3852,3080
+Maharashtra,Nashik,Lasalgaon(Niphad),Sunflower,Other,FAQ,14/10/2024,4501,4501,4501
+Maharashtra,Nashik,Lasalgaon(Vinchur),Maize,Other,FAQ,14/10/2024,1300,2371,2250
+Maharashtra,Nashik,Manmad,Onion,Red,FAQ,14/10/2024,1745,3110,1745
+Maharashtra,Nashik,Nandgaon,Groundnut,Other,FAQ,14/10/2024,4700,7270,7250
+Maharashtra,Nashik,Nandgaon,Jowar(Sorghum),Other,FAQ,14/10/2024,1800,2336,2250
+Maharashtra,Nashik,Nasik,Chikoos(Sapota),Other,Local,14/10/2024,1200,4500,3500
+Maharashtra,Nashik,Nasik,Garlic,Other,FAQ,14/10/2024,12000,27000,21000
+Maharashtra,Nashik,Nasik,Orange,Other,Local,14/10/2024,1500,4500,3500
+Maharashtra,Nashik,Nasik,Ridgeguard(Tori),Other,FAQ,14/10/2024,2505,3750,2915
+Maharashtra,Nashik,Satana,Wheat,Other,FAQ,14/10/2024,2500,3300,3091
+Maharashtra,Nashik,Shivsiddha Govind Producer Company Limited Sanchal,Onion,Local,FAQ,14/10/2024,4000,5100,4355
+Maharashtra,Nashik,Sinner,Green Gram (Moong)(Whole),Other,FAQ,14/10/2024,6100,6900,6200
+Maharashtra,Nashik,Sinner,Maize,Other,FAQ,14/10/2024,2000,2365,2345
+Maharashtra,Nashik,Sinner,Onion,Other,FAQ,14/10/2024,1500,4403,4250
+Maharashtra,Nashik,Umrane,Onion,Other,FAQ,14/10/2024,1500,4550,3900
+Maharashtra,Parbhani,Jintur,Soyabean,Yellow,FAQ,14/10/2024,3934,4410,4300
+Maharashtra,Parbhani,Tadkalas,Jowar(Sorghum),Other,FAQ,14/10/2024,2150,2200,2151
+Maharashtra,Parbhani,Tadkalas,Soyabean,Other,FAQ,14/10/2024,4000,4500,4300
+Maharashtra,Pune,Junnar(Narayangaon),Drumstick,Other,FAQ,14/10/2024,1000,6000,4000
+Maharashtra,Pune,Junnar(Narayangaon),Onion,Other,FAQ,14/10/2024,1000,4700,3000
+Maharashtra,Pune,Junnar(Otur),Chilly Capsicum,Other,FAQ,14/10/2024,2000,6000,4000
+Maharashtra,Pune,Junnar(Otur),Cucumbar(Kheera),Other,FAQ,14/10/2024,1000,5110,3000
+Maharashtra,Pune,Junnar(Otur),Green Chilli,Other,FAQ,14/10/2024,3000,11000,7000
+Maharashtra,Pune,Junnar(Otur),Guar,Other,FAQ,14/10/2024,3000,10250,6500
+Maharashtra,Pune,Khed,Cabbage,Other,FAQ,14/10/2024,800,1500,1000
+Maharashtra,Pune,Pune,Chilly Capsicum,Other,FAQ,14/10/2024,2000,5500,3750
+Maharashtra,Pune,Pune,Corriander seed,Other,FAQ,14/10/2024,7000,15000,11000
+Maharashtra,Pune,Pune,Cucumbar(Kheera),Other,FAQ,14/10/2024,1000,2000,1500
+Maharashtra,Pune,Pune,Green Peas,Other,FAQ,14/10/2024,10400,11800,11100
+Maharashtra,Pune,Pune,Maize,Deshi Red,FAQ,14/10/2024,3100,3300,3200
+Maharashtra,Pune,Pune,Pineapple,Other,Local,14/10/2024,3600,6600,5100
+Maharashtra,Pune,Pune,Plum,Other,Local,14/10/2024,4000,15000,9500
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,14/10/2024,5,7,6
+Maharashtra,Pune,Pune,Tender Coconut,Other,Local,14/10/2024,600,1600,1100
+Maharashtra,Pune,Pune,Tomato,Local,FAQ,14/10/2024,1000,4000,2500
+Maharashtra,Pune,Pune(Khadiki),Bhindi(Ladies Finger),Other,FAQ,14/10/2024,2000,3000,2500
+Maharashtra,Pune,Pune(Khadiki),Bitter gourd,Other,FAQ,14/10/2024,2700,2700,2700
+Maharashtra,Pune,Pune(Khadiki),Coriander(Leaves),Other,FAQ,14/10/2024,3,6,4
+Maharashtra,Pune,Pune(Khadiki),Sweet Pumpkin,Other,FAQ,14/10/2024,1000,1000,1000
+Maharashtra,Pune,Pune(Manjri),Beans,Other,FAQ,14/10/2024,7000,10000,8000
+Maharashtra,Pune,Pune(Manjri),Bottle gourd,Other,FAQ,14/10/2024,2000,3000,2700
+Maharashtra,Pune,Pune(Manjri),Brinjal,Other,FAQ,14/10/2024,2600,4000,3300
+Maharashtra,Pune,Pune(Manjri),Cabbage,Other,FAQ,14/10/2024,800,1700,1300
+Maharashtra,Pune,Pune(Moshi),Cabbage,Other,FAQ,14/10/2024,1000,1500,1250
+Maharashtra,Pune,Pune(Moshi),Chilly Capsicum,Other,FAQ,14/10/2024,5000,5000,5000
+Maharashtra,Pune,Pune(Moshi),Elephant Yam (Suran),Other,FAQ,14/10/2024,5000,5000,5000
+Maharashtra,Pune,Pune(Moshi),Lime,Other,Local,14/10/2024,10000,10000,10000
+Maharashtra,Pune,Pune(Moshi),Spinach,Other,FAQ,14/10/2024,7,8,8
+Maharashtra,Pune,Pune(Pimpri),Bitter gourd,Other,FAQ,14/10/2024,3000,4000,3500
+Maharashtra,Pune,Pune(Pimpri),Green Chilli,Other,FAQ,14/10/2024,6000,6000,6000
+Maharashtra,Pune,Pune(Pimpri),Mint(Pudina),Other,FAQ,14/10/2024,6,7,7
+Maharashtra,Raigad,Karjat(Raigad),Paddy(Dhan)(Common),Other,FAQ,14/10/2024,2300,2550,2450
+Maharashtra,Raigad,Panvel,Bitter gourd,Other,FAQ,14/10/2024,3500,4000,3750
+Maharashtra,Raigad,Pen,Sweet Pumpkin,Other,FAQ,14/10/2024,3000,3200,3000
+Maharashtra,Ratnagiri,Ratnagiri (Nachane),Coriander(Leaves),Other,FAQ,14/10/2024,1200,1400,1300
+Maharashtra,Ratnagiri,Ratnagiri (Nachane),Ginger(Green),Other,FAQ,14/10/2024,70000,110000,80000
+Maharashtra,Ratnagiri,Ratnagiri (Nachane),Guar,Other,FAQ,14/10/2024,100000,150000,120000
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Orange,Other,Local,14/10/2024,2000,8000,5000
+Maharashtra,Satara,Karad,Onion,Other,FAQ,14/10/2024,2000,3500,3500
+Maharashtra,Satara,Karad,Ridgeguard(Tori),Other,FAQ,14/10/2024,2000,3000,3000
+Maharashtra,Satara,Karad,Tomato,Other,FAQ,14/10/2024,3000,4000,4000
+Maharashtra,Satara,Satara,Bhindi(Ladies Finger),Other,FAQ,14/10/2024,2000,2500,2250
+Maharashtra,Satara,Satara,Brinjal,Other,FAQ,14/10/2024,4000,6000,5000
+Maharashtra,Satara,Satara,Cabbage,Other,FAQ,14/10/2024,1000,2000,1500
+Maharashtra,Satara,Satara,Cauliflower,Other,FAQ,14/10/2024,2000,3000,2500
+Maharashtra,Satara,Satara,Chilly Capsicum,Other,FAQ,14/10/2024,4000,6000,5000
+Maharashtra,Satara,Satara,Cucumbar(Kheera),Other,FAQ,14/10/2024,1000,1500,1250
+Maharashtra,Satara,Satara,Green Chilli,Other,FAQ,14/10/2024,4000,6000,5000
+Maharashtra,Satara,Satara,Guar,Other,FAQ,14/10/2024,5000,7000,6000
+Maharashtra,Sholapur,Akluj,Cabbage,Other,FAQ,14/10/2024,800,1200,1000
+Maharashtra,Sholapur,Akluj,Cucumbar(Kheera),Other,FAQ,14/10/2024,1000,2000,1500
+Maharashtra,Sholapur,Akluj,Ginger(Green),Other,FAQ,14/10/2024,4500,8000,7000
+Maharashtra,Sholapur,Mangal Wedha,Bitter gourd,Other,FAQ,14/10/2024,1200,3300,2300
+Maharashtra,Sholapur,Mohol,Black Gram (Urd Beans)(Whole),Other,FAQ,14/10/2024,6000,7000,6500
+Maharashtra,Sholapur,Solapur,Chilly Capsicum,Other,FAQ,14/10/2024,1000,2000,1500
+Maharashtra,Sholapur,Solapur,Spinach,Other,FAQ,14/10/2024,400,800,600
+Maharashtra,Sholapur,Solapur,Tomato,Other,FAQ,14/10/2024,300,5000,2200
+Maharashtra,Thane,Kalyan,Brinjal,Other,FAQ,14/10/2024,3000,4000,3500
+Maharashtra,Thane,Kalyan,Chilly Capsicum,Other,FAQ,14/10/2024,4000,5000,4500
+Maharashtra,Thane,Kalyan,Onion,1st Sort,FAQ,14/10/2024,4200,4300,4250
+Maharashtra,Thane,Kalyan,Spinach,Other,FAQ,14/10/2024,15,20,17
+Maharashtra,Thane,Kalyan,Wheat,Sharbati,FAQ,14/10/2024,2600,2900,2750
+Maharashtra,Thane,Ulhasnagar,Wheat,Other,FAQ,14/10/2024,3200,3400,3300
+Maharashtra,Wardha,Pulgaon,Soyabean,Yellow,FAQ,14/10/2024,3500,4500,4300
+Maharashtra,Yavatmal,Digras,Soyabean,Yellow,FAQ,14/10/2024,4000,4500,4250
+Maharashtra,Yavatmal,Yeotmal,Arhar (Tur/Red Gram)(Whole),Other,FAQ,14/10/2024,8500,8500,8500

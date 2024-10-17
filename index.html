@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Commodities Data Model</title>
+</head>
+<body>
+    <h1>Commodities Data - Random Forest Regression</h1>
+
+    <!-- Form to trigger the model training and prediction -->
+    <form method="post">
+        <button type="submit">Run Model</button>
+    </form>
+
+    <!-- Display the R2 score if available -->
+    {% if r2_score is not None %}
+        <h2>R2 Score: {{ r2_score }}</h2>
+    {% endif %}
+</body>
+</html>
